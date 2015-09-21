@@ -15,9 +15,20 @@ position:absolute;
 
 section h1 {
 color: #FFF;
-padding: 40px;
+padding: 48px;
 text-decoration: none;
 text-transform: uppercase;
+text-align:center;
+ vertical-align: middle;
+font-family: 'Open Sans', sans-serif;
+font-size:80px;
+
+}
+
+section h2 {
+color: #FFF;
+padding: 40px;
+text-decoration: none;
 text-align:center;
  vertical-align: middle;
 font-family: 'Open Sans', sans-serif;
