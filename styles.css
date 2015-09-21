@@ -37,3 +37,13 @@ font-size:20px;
 font-weight:60;
 
 }
+
+section a {
+width: 300px;
+height: 25px;
+padding: 20px;
+position: absolute;
+top: 50%;
+left: 50%;
+margin: -32px 0 0 -170px;
+}
