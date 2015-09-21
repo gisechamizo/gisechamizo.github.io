@@ -45,13 +45,14 @@ font-family:  'Source Sans Pro', sans-serif;
 color:rgb(255,255,255);
 	font-size: 15px;
 	text-align: center;
-	vertical-align: center;
-	margin-left: 1040px;
 	background-color:rgb(59, 174, 219);
 text-decoration: none;
 text-transform: uppercase;
-padding: 7px 55px;
+padding: 7px 10px;
 border-radius:3px;
+	width: 200px;
+	height: 20px;
+	vertical-align: middle;
 	
 }
 
