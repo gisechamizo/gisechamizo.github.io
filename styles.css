@@ -39,11 +39,12 @@ font-weight:60;
 }
 
 section a {
-width: 300px;
-height: 25px;
-padding: 20px;
-position: absolute;
-top: 50%;
-left: 50%;
-margin: -32px 0 0 -170px;
+font-family:  'Source Sans Pro', sans-serif;
+color:rgb(255,255,255);
+border-color: rgb(0,0,255);
+	font-size: 20px;
+
 }
+
+
+
