@@ -15,11 +15,10 @@ position:absolute;
 
 section h1 {
 color: #FFF;
-border: 2px solid #fff;
 padding: 20px;
 text-decoration: none;
 text-transform: uppercase;
-border-radius: 3px;
+position:center;
 
   
 }
