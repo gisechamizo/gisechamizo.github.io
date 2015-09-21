@@ -4,8 +4,7 @@ background-size:cover;
 }
 
 section {
-background-image:
-background: rgb(255,207,155);
+background-color: rgb(255,207,155);
 opacity:30%;
 height: 500px;
 width: 100%;
