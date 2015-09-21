@@ -14,8 +14,12 @@ position:absolute;
 }
 
 section h1 {
-  color:solid rgb(255,255,255);
-  font-size:50px;
+color: #FFF;
+border: 2px solid #fff;
+padding: 20px;
+text-decoration: none;
+text-transform: uppercase;
+border-radius: 3px;
 
   
 }
