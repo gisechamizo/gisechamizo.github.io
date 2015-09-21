@@ -49,6 +49,11 @@ border-color: rgb(0,0,255);
 	width: 25px;
 	height: 10px;
 	border-color: blue;
+	border: 2px solid #fff;
+
+text-decoration: none;
+text-transform: uppercase;
+border-radius: 3px;
 
 }
 
